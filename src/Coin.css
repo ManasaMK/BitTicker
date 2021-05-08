@@ -1,0 +1,22 @@
+.coin img{
+    height: 50px;
+    width: 50px;
+    margin-right: 10px;
+}
+
+.coin-symbol{
+    text-transform: uppercase;
+}
+
+.red{
+    color: #f00606;
+}
+
+.green{
+    color: #11d811;
+}
+
+.coin-container{
+    column-count: 3;
+    column-gap: 100px;
+}
